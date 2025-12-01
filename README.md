@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Nnandakishor/java/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/Nnandakishor/java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nnandakishor/java/tree/master/0268-missing-number) |
 | [1929-concatenation-of-array](https://github.com/Nnandakishor/java/tree/master/1929-concatenation-of-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Nnandakishor/java/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Nnandakishor/java/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
