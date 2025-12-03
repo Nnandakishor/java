@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nnandakishor/java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nnandakishor/java/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Nnandakishor/java/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/Nnandakishor/java/tree/master/0219-contains-duplicate-ii) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Nnandakishor/java/tree/master/0219-contains-duplicate-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nnandakishor/java/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
