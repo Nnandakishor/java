@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Nnandakishor/java/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Nnandakishor/java/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Nnandakishor/java/tree/master/2574-left-and-right-sum-differences) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nnandakishor/java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Simulation
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nnandakishor/java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nnandakishor/java/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/Nnandakishor/java/tree/master/1108-defanging-an-ip-address) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nnandakishor/java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
 |  |
 | ------- |
