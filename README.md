@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Nnandakishor/java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Nnandakishor/java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nnandakishor/java/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Nnandakishor/java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nnandakishor/java/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Nnandakishor/java/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Nnandakishor/java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nnandakishor/java/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nnandakishor/java/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Nnandakishor/java/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
