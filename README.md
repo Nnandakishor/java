@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nnandakishor/java/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Nnandakishor/java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Nnandakishor/java/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Nnandakishor/java/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Nnandakishor/java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nnandakishor/java/tree/master/0268-missing-number) |
 | [1929-concatenation-of-array](https://github.com/Nnandakishor/java/tree/master/1929-concatenation-of-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Nnandakishor/java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Nnandakishor/java/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Nnandakishor/java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Nnandakishor/java/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nnandakishor/java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nnandakishor/java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nnandakishor/java/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Nnandakishor/java/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
 | ------- |
