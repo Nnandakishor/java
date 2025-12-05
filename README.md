@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nnandakishor/java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Nnandakishor/java/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Nnandakishor/java/tree/master/1929-concatenation-of-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Nnandakishor/java/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nnandakishor/java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Nnandakishor/java/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
