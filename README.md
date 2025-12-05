@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nnandakishor/java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Nnandakishor/java/tree/master/1688-count-of-matches-in-tournament) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Nnandakishor/java/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1952-three-divisors](https://github.com/Nnandakishor/java/tree/master/1952-three-divisors) |
 | [2652-sum-multiples](https://github.com/Nnandakishor/java/tree/master/2652-sum-multiples) |
 ## Binary Search
 |  |
@@ -148,5 +149,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Nnandakishor/java/tree/master/1534-count-good-triplets) |
+| [1952-three-divisors](https://github.com/Nnandakishor/java/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nnandakishor/java/tree/master/2367-number-of-arithmetic-triplets) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Nnandakishor/java/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
