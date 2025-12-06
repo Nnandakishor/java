@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Nnandakishor/java/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nnandakishor/java/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Nnandakishor/java/tree/master/2418-sort-the-people) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nnandakishor/java/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2574-left-and-right-sum-differences](https://github.com/Nnandakishor/java/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nnandakishor/java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Simulation
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/Nnandakishor/java/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Nnandakishor/java/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Nnandakishor/java/tree/master/2413-smallest-even-multiple) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nnandakishor/java/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2652-sum-multiples](https://github.com/Nnandakishor/java/tree/master/2652-sum-multiples) |
 ## Binary Search
 |  |
