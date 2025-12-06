@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/Nnandakishor/java/tree/master/1534-count-good-triplets) |
 | [1929-concatenation-of-array](https://github.com/Nnandakishor/java/tree/master/1929-concatenation-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Nnandakishor/java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Nnandakishor/java/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nnandakishor/java/tree/master/2367-number-of-arithmetic-triplets) |
 | [2574-left-and-right-sum-differences](https://github.com/Nnandakishor/java/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nnandakishor/java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
