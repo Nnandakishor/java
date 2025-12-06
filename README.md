@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Nnandakishor/java/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Nnandakishor/java/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nnandakishor/java/tree/master/2367-number-of-arithmetic-triplets) |
+| [2418-sort-the-people](https://github.com/Nnandakishor/java/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/Nnandakishor/java/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nnandakishor/java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Simulation
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nnandakishor/java/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/Nnandakishor/java/tree/master/1108-defanging-an-ip-address) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Nnandakishor/java/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2418-sort-the-people](https://github.com/Nnandakishor/java/tree/master/2418-sort-the-people) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nnandakishor/java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nnandakishor/java/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nnandakishor/java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nnandakishor/java/tree/master/2367-number-of-arithmetic-triplets) |
+| [2418-sort-the-people](https://github.com/Nnandakishor/java/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nnandakishor/java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nnandakishor/java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Nnandakishor/java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2418-sort-the-people](https://github.com/Nnandakishor/java/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
