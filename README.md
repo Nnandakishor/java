@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Nnandakishor/java/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1952-three-divisors](https://github.com/Nnandakishor/java/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Nnandakishor/java/tree/master/2119-a-number-after-a-double-reversal) |
+| [2235-add-two-integers](https://github.com/Nnandakishor/java/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/Nnandakishor/java/tree/master/2652-sum-multiples) |
 ## Binary Search
 |  |
