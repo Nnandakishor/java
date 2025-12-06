@@ -6,7 +6,7 @@ class Solution {
             for (int j = 0; j < nums2.length; j++) {
                 if (nums1[i] == nums2[j]) {
                     answer1++;
-                    break; 
+                    break;
                 }
             }
         }
@@ -14,7 +14,7 @@ class Solution {
             for (int j = 0; j < nums1.length; j++) {
                 if (nums2[i] == nums1[j]) {
                     answer2++;
-                    break; 
+                    break;
                 }
             }
         }
