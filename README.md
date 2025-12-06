@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Nnandakishor/java/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Nnandakishor/java/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nnandakishor/java/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Nnandakishor/java/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Nnandakishor/java/tree/master/2652-sum-multiples) |
 ## Binary Search
 |  |
