@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Nnandakishor/java/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nnandakishor/java/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/Nnandakishor/java/tree/master/1534-count-good-triplets) |
+| [1732-find-the-highest-altitude](https://github.com/Nnandakishor/java/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Nnandakishor/java/tree/master/1929-concatenation-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Nnandakishor/java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Nnandakishor/java/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Nnandakishor/java/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Nnandakishor/java/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Nnandakishor/java/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Nnandakishor/java/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Nnandakishor/java/tree/master/3427-sum-of-variable-length-subarrays) |
