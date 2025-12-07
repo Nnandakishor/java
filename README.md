@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Nnandakishor/java/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nnandakishor/java/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Nnandakishor/java/tree/master/3285-find-indices-of-stable-mountains) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nnandakishor/java/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Nnandakishor/java/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Nnandakishor/java/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Nnandakishor/java/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nnandakishor/java/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nnandakishor/java/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Nnandakishor/java/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nnandakishor/java/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nnandakishor/java/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
