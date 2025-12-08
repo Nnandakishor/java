@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nnandakishor/java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nnandakishor/java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Nnandakishor/java/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nnandakishor/java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Nnandakishor/java/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/Nnandakishor/java/tree/master/1534-count-good-triplets) |
 | [1732-find-the-highest-altitude](https://github.com/Nnandakishor/java/tree/master/1732-find-the-highest-altitude) |
@@ -218,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/Nnandakishor/java/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Nnandakishor/java/tree/master/2413-smallest-even-multiple) |
+## Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nnandakishor/java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nnandakishor/java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
