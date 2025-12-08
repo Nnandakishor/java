@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nnandakishor/java/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Nnandakishor/java/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Nnandakishor/java/tree/master/0704-binary-search) |
+| [1051-height-checker](https://github.com/Nnandakishor/java/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nnandakishor/java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nnandakishor/java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nnandakishor/java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nnandakishor/java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nnandakishor/java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nnandakishor/java/tree/master/0268-missing-number) |
+| [1051-height-checker](https://github.com/Nnandakishor/java/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nnandakishor/java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nnandakishor/java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nnandakishor/java/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Nnandakishor/java/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nnandakishor/java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
