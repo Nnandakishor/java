@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/Nnandakishor/java/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nnandakishor/java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nnandakishor/java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2942-find-words-containing-character](https://github.com/Nnandakishor/java/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Nnandakishor/java/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/Nnandakishor/java/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Nnandakishor/java/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Nnandakishor/java/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Nnandakishor/java/tree/master/2418-sort-the-people) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nnandakishor/java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2942-find-words-containing-character](https://github.com/Nnandakishor/java/tree/master/2942-find-words-containing-character) |
 | [3340-check-balanced-string](https://github.com/Nnandakishor/java/tree/master/3340-check-balanced-string) |
 ## Hash Table
 |  |
