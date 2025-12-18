@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Nnandakishor/java/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nnandakishor/java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Nnandakishor/java/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Nnandakishor/java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Nnandakishor/java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Nnandakishor/java/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Nnandakishor/java/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Nnandakishor/java/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/Nnandakishor/java/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Nnandakishor/java/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Nnandakishor/java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/Nnandakishor/java/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nnandakishor/java/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## String
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nnandakishor/java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nnandakishor/java/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/Nnandakishor/java/tree/master/1108-defanging-an-ip-address) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Nnandakishor/java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Nnandakishor/java/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Nnandakishor/java/tree/master/2418-sort-the-people) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nnandakishor/java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
